@@ -1,4 +1,4 @@
-﻿namespace lampada
+namespace lampada
 {
     public class Program
     {
@@ -7,27 +7,22 @@
             //Console.WriteLine("Hello, World!");
             // instancia de um objeto
             Lampada lampada1 = new Lampada();
-            Lampada lampada2 = new Lampada();
 
-            //acessando um atributo publico do objeto
-            lampada1.Ligada = true;
-            lampada1.Potencia = 150;
-            lampada1.Cor = "azul";
+            //chamando o metodo para ligar a lampada1
+            lampada1.Ligar();
 
-            lampada2.Ligada = false;
-            lampada2.Potencia = 100;
-            lampada2.Cor = "roxo";
+            //chamando o metodo para verificar se a lampada1 esta ligada
+            Console.WriteLine("A lampada esta ligada? " + lampada1.estaLigada());
 
-            //visualizando os valores de atributos
-            Console.WriteLine(" Essa é a lâmpada 1");
-            Console.WriteLine(" A lâmpada está Ligada? " + lampada1.Ligada);
-            Console.WriteLine(" Qual a potência da lâmpada? " + lampada1.Potencia);
-            Console.WriteLine(" Qual a cor da lâmpada? " + lampada1.Cor);
-            Console.WriteLine("*******************************");
-            Console.WriteLine(" Essa é a lâmpada 2");
-            Console.WriteLine(" A lâmpada está Ligada? " + lampada2.Ligada);
-            Console.WriteLine(" Qual a potência da lâmpada? " + lampada2.Potencia);
-            Console.WriteLine(" Qual a cor da lâmpada? " + lampada2.Cor);
+            lampada1.Cores();
+
+            Console.WriteLine("Qual a cor da lampada? " + lampada1.qualCor());
+
+            lampada1.Pot();
+
+            Console.WriteLine("Qual a potencia da lampada? " + lampada1.estaPotencia());
+
+            
 
 
 
