@@ -4,19 +4,19 @@
     {
         static void Main(string[] args)
         {
-            AlbumDeFotos fotas1 = new AlbumDeFotos();
+            AlbumDeFotos fotinha = new AlbumDeFotos();
             Console.WriteLine("Situação 1");
-            fotas1.TotalDeFotos = 40;
-            fotas1.NumeroDeFotos = 60;
-            fotas1.TotalDePaginas = 30;
-            Console.WriteLine("Limite de Fotos:40,Quantia de Fotos:60");
+            fotinha.TotalDeFotos = 32;
+            fotinha.NumeroDeFotos = 40;
+            fotinha.TotalDePaginas = 30;
+            Console.WriteLine("Limite de Fotos:32,Quantia de Fotos:40");
 
             AlbumDeFotos fotas2 = new AlbumDeFotos();
             Console.WriteLine("Situação 2");
-            fotas1.TotalDeFotos = 96;
-            fotas1.NumeroDeFotos = 20;
-            fotas1.TotalDePaginas = 30;
-            Console.WriteLine("Limite de Fotos:20,Quantia de Fotos:96");
+            fotinha.TotalDeFotos = 95;
+            fotinha.NumeroDeFotos = 20;
+            fotinha.TotalDePaginas = 30;
+            Console.WriteLine("Limite de Fotos:20,Quantia de Fotos:95");
         }
     }
 }
