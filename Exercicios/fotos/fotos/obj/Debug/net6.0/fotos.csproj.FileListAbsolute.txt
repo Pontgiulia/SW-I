@@ -1,0 +1,14 @@
+C:\Users\lab1-aluno\Downloads\fotos\fotos\bin\Debug\net6.0\fotos.exe
+C:\Users\lab1-aluno\Downloads\fotos\fotos\bin\Debug\net6.0\fotos.deps.json
+C:\Users\lab1-aluno\Downloads\fotos\fotos\bin\Debug\net6.0\fotos.runtimeconfig.json
+C:\Users\lab1-aluno\Downloads\fotos\fotos\bin\Debug\net6.0\fotos.dll
+C:\Users\lab1-aluno\Downloads\fotos\fotos\bin\Debug\net6.0\fotos.pdb
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\fotos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\fotos.AssemblyInfoInputs.cache
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\fotos.AssemblyInfo.cs
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\fotos.csproj.CoreCompileInputs.cache
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\fotos.dll
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\refint\fotos.dll
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\fotos.pdb
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\fotos.genruntimeconfig.cache
+C:\Users\lab1-aluno\Downloads\fotos\fotos\obj\Debug\net6.0\ref\fotos.dll
